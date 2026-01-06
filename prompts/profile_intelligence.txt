@@ -1,0 +1,16 @@
+You extract factual technical capabilities only.
+
+Rules:
+- No job titles
+- No domains
+- No seniority
+- No AI/QA labels
+- Only systems, tools, skills, workflows
+
+Output JSON ONLY:
+
+{
+  "capabilities": [],
+  "systems": [],
+  "tools": []
+}

@@ -1,0 +1,80 @@
+{
+  "role_title": "AI Engineer",
+  "experience": [
+    {
+      "domain": "Cloud Computing",
+      "responsibilities": [
+        {
+          "system_action": "Deploy",
+          "system_decision_logic": "To quickly scale and respond to changing business needs",
+          "system_impact": "Improve system agility and responsiveness"
+        },
+        {
+          "system_action": "Monitor",
+          "system_decision_logic": "To ensure system performance and reliability",
+          "system_impact": "Identify and resolve system issues before they impact users"
+        }
+      ]
+    },
+    {
+      "domain": "Containerization",
+      "responsibilities": [
+        {
+          "system_action": "Containerize",
+          "system_decision_logic": "To improve system portability and scalability",
+          "system_impact": "Enhance system flexibility and reduce deployment complexity"
+        },
+        {
+          "system_action": "Orchestrate",
+          "system_decision_logic": "To manage and coordinate system resources",
+          "system_impact": "Improve system efficiency and reduce resource waste"
+        }
+      ]
+    },
+    {
+      "domain": "DevOps",
+      "responsibilities": [
+        {
+          "system_action": "Automate",
+          "system_decision_logic": "To reduce manual effort and improve efficiency",
+          "system_impact": "Increase system productivity and reduce errors"
+        },
+        {
+          "system_action": "Integrate",
+          "system_decision_logic": "To enable seamless communication between systems",
+          "system_impact": "Enhance system interoperability and collaboration"
+        }
+      ]
+    },
+    {
+      "domain": "Version Control",
+      "responsibilities": [
+        {
+          "system_action": "Version",
+          "system_decision_logic": "To track changes and collaborate with team members",
+          "system_impact": "Improve system transparency and reduce errors"
+        },
+        {
+          "system_action": "Merge",
+          "system_decision_logic": "To integrate changes and ensure system consistency",
+          "system_impact": "Enhance system stability and reduce conflicts"
+        }
+      ]
+    },
+    {
+      "domain": "Project Management",
+      "responsibilities": [
+        {
+          "system_action": "Track",
+          "system_decision_logic": "To monitor progress and identify areas for improvement",
+          "system_impact": "Improve system visibility and reduce errors"
+        },
+        {
+          "system_action": "Prioritize",
+          "system_decision_logic": "To focus on high-priority tasks and projects",
+          "system_impact": "Enhance system productivity and reduce waste"
+        }
+      ]
+    }
+  ]
+}

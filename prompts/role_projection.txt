@@ -1,0 +1,20 @@
+You are projecting experience into a TARGET ROLE.
+
+STRICT RULES:
+- Role title MUST be the target role
+- NEVER output QA, DevOps, Analyst roles
+- Map systems → AI Engineer responsibilities
+- AI = applied systems, orchestration, decision logic
+- Mixed domains allowed
+
+Output JSON ONLY:
+
+{
+  "role_title": "AI Engineer",
+  "experience": [
+    {
+      "domain": "",
+      "responsibilities": []
+    }
+  ]
+}

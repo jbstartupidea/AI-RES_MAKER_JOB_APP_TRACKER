@@ -1,0 +1,169 @@
+{
+  "systems": [
+    {
+      "system_name": "Linux",
+      "responsibilities": [
+        {
+          "system_action": "Configure",
+          "system_decision_logic": "Based on performance requirements",
+          "system_impact": "Optimize system for high-performance computing"
+        },
+        {
+          "system_action": "Troubleshoot",
+          "system_decision_logic": "When encountering errors or crashes",
+          "system_impact": "Minimize downtime and ensure system reliability"
+        }
+      ]
+    },
+    {
+      "system_name": "Windows",
+      "responsibilities": [
+        {
+          "system_action": "Optimize",
+          "system_decision_logic": "To improve user experience and productivity",
+          "system_impact": "Enhance system performance and responsiveness"
+        },
+        {
+          "system_action": "Secure",
+          "system_decision_logic": "To protect against malware and unauthorized access",
+          "system_impact": "Ensure system and data integrity"
+        }
+      ]
+    },
+    {
+      "system_name": "macOS",
+      "responsibilities": [
+        {
+          "system_action": "Maintain",
+          "system_decision_logic": "To ensure system stability and security",
+          "system_impact": "Prevent system crashes and data loss"
+        },
+        {
+          "system_action": "Upgrade",
+          "system_decision_logic": "To take advantage of new features and technologies",
+          "system_impact": "Stay up-to-date with the latest system capabilities"
+        }
+      ]
+    },
+    {
+      "system_name": "AWS",
+      "responsibilities": [
+        {
+          "system_action": "Deploy",
+          "system_decision_logic": "To quickly scale and respond to changing business needs",
+          "system_impact": "Improve system agility and responsiveness"
+        },
+        {
+          "system_action": "Monitor",
+          "system_decision_logic": "To ensure system performance and reliability",
+          "system_impact": "Identify and resolve system issues before they impact users"
+        }
+      ]
+    },
+    {
+      "system_name": "Azure",
+      "responsibilities": [
+        {
+          "system_action": "Integrate",
+          "system_decision_logic": "To enable seamless communication between systems",
+          "system_impact": "Enhance system interoperability and collaboration"
+        },
+        {
+          "system_action": "Automate",
+          "system_decision_logic": "To reduce manual effort and improve efficiency",
+          "system_impact": "Increase system productivity and reduce errors"
+        }
+      ]
+    },
+    {
+      "system_name": "Google Cloud",
+      "responsibilities": [
+        {
+          "system_action": "Migrate",
+          "system_decision_logic": "To take advantage of cloud-based scalability and cost savings",
+          "system_impact": "Improve system flexibility and reduce costs"
+        },
+        {
+          "system_action": "Optimize",
+          "system_decision_logic": "To ensure system performance and reliability",
+          "system_impact": "Enhance system responsiveness and user experience"
+        }
+      ]
+    },
+    {
+      "system_name": "Docker",
+      "responsibilities": [
+        {
+          "system_action": "Containerize",
+          "system_decision_logic": "To improve system portability and scalability",
+          "system_impact": "Enhance system flexibility and reduce deployment complexity"
+        },
+        {
+          "system_action": "Orchestrate",
+          "system_decision_logic": "To manage and coordinate system resources",
+          "system_impact": "Improve system efficiency and reduce resource waste"
+        }
+      ]
+    },
+    {
+      "system_name": "Kubernetes",
+      "responsibilities": [
+        {
+          "system_action": "Deploy",
+          "system_decision_logic": "To ensure system reliability and scalability",
+          "system_impact": "Improve system availability and responsiveness"
+        },
+        {
+          "system_action": "Scale",
+          "system_decision_logic": "To respond to changing business needs",
+          "system_impact": "Enhance system agility and responsiveness"
+        }
+      ]
+    },
+    {
+      "system_name": "Jenkins",
+      "responsibilities": [
+        {
+          "system_action": "Automate",
+          "system_decision_logic": "To reduce manual effort and improve efficiency",
+          "system_impact": "Increase system productivity and reduce errors"
+        },
+        {
+          "system_action": "Integrate",
+          "system_decision_logic": "To enable seamless communication between systems",
+          "system_impact": "Enhance system interoperability and collaboration"
+        }
+      ]
+    },
+    {
+      "system_name": "Git",
+      "responsibilities": [
+        {
+          "system_action": "Version",
+          "system_decision_logic": "To track changes and collaborate with team members",
+          "system_impact": "Improve system transparency and reduce errors"
+        },
+        {
+          "system_action": "Merge",
+          "system_decision_logic": "To integrate changes and ensure system consistency",
+          "system_impact": "Enhance system stability and reduce conflicts"
+        }
+      ]
+    },
+    {
+      "system_name": "Jira",
+      "responsibilities": [
+        {
+          "system_action": "Track",
+          "system_decision_logic": "To monitor progress and identify areas for improvement",
+          "system_impact": "Improve system visibility and reduce errors"
+        },
+        {
+          "system_action": "Prioritize",
+          "system_decision_logic": "To focus on high-priority tasks and projects",
+          "system_impact": "Enhance system productivity and reduce waste"
+        }
+      ]
+    }
+  ]
+}

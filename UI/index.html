@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Resume Coach AI</title>
+  <script src="/ui/app.js"></script>
+  <style>
+    body { font-family: Arial; background: #f4f4f4; }
+    .container { width: 60%; margin: auto; margin-top: 40px; }
+    textarea, input { width: 100%; padding: 10px; margin: 10px 0; }
+    button { padding: 12px 20px; background: #2563eb; color: white; border: none; }
+    pre { background: black; color: #00ff90; padding: 15px; }
+  </style>
+</head>
+
+<body>
+<div class="container">
+  <h1>Resume Coach AI</h1>
+
+  <label>Job Description *</label>
+  <textarea id="jd" rows="6"></textarea>
+
+  <label>Paste Resume (optional)</label>
+  <textarea id="resumeText" rows="6"></textarea>
+
+  <label>OR Upload Resume (PDF / DOCX)</label>
+  <input type="file" id="resumeFile" accept=".pdf,.doc,.docx"/>
+
+  <label>Years of Experience</label>
+  <input type="number" id="experience" value="5"/>
+
+  <button onclick="generate()">Generate Resume</button>
+
+  <pre id="output"></pre>
+</div>
+</body>
+</html>

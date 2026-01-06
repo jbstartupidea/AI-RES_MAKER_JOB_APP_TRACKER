@@ -1,0 +1,42 @@
+{
+  "capabilities": [
+    "Data analysis",
+    "Machine learning",
+    "Cloud computing",
+    "Cybersecurity",
+    "DevOps",
+    "Agile development",
+    "Scrum",
+    "Kanban",
+    "Version control",
+    "API design",
+    "Microservices architecture"
+  ],
+  "systems": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "Git",
+    "Jira"
+  ],
+  "tools": [
+    "Python",
+    "Java",
+    "JavaScript",
+    "SQL",
+    "NoSQL",
+    "PostgreSQL",
+    "MySQL",
+    "MongoDB",
+    "TensorFlow",
+    "PyTorch",
+    "Scikit-learn",
+    "OpenCV"
+  ]
+}

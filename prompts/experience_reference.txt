@@ -1,0 +1,19 @@
+Convert capabilities into SYSTEM-FIRST experience.
+
+Rules:
+- No job titles
+- No domains
+- No QA / DevOps / Analyst language
+- Every responsibility must include:
+  system + action + decision logic + impact
+
+Output JSON ONLY:
+
+{
+  "systems": [
+    {
+      "system_name": "",
+      "responsibilities": []
+    }
+  ]
+}

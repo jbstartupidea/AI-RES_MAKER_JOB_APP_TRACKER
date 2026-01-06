@@ -1,0 +1,37 @@
+{
+  "identity": {
+    "current_title": "",
+    "target_title": "AI Engineer",
+    "years_total_experience": 0
+  },
+  "core_strengths": {
+    "programming": [],
+    "data": [],
+    "systems": [],
+    "cloud": [],
+    "ai_related": []
+  },
+  "experience_breakdown": {
+    "qa_foundation": [],
+    "automation_engineering": [],
+    "data_engineering_exposure": [],
+    "ai_exposure_real": []
+  },
+  "transferable_skills": [],
+  "leadership_and_ownership": [],
+  "tools_and_tech": [],
+  "project_style": {
+    "worked_on_end_to_end": false,
+    "designed_systems": false,
+    "production_exposure": false
+  },
+  "ai_gap_analysis": {
+    "strong_for_ai_roles": [],
+    "needs_strengthening": [],
+    "do_not_claim": []
+  },
+  "positioning_strategy": {
+    "primary_narrative": "",
+    "secondary_narrative": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "target_role": "AI Engineer",
+  "seniority_level": "Not specified",
+  "years_of_experience": "Not specified",
+  "core_competencies": [
+    "AI/ML",
+    "Backend system design"
+  ],
+  "systems_and_tools": [
+    "Python",
+    "FastAPI",
+    "LLMs"
+  ],
+  "responsibility_themes": [
+    "Building scalable AI-driven services",
+    "Deploying to cloud environments"
+  ],
+  "keywords_for_ats": [
+    "AI Engineer",
+    "Python",
+    "FastAPI",
+    "LLMs",
+    "Backend system design",
+    "Cloud deployment"
+  ]
+}
